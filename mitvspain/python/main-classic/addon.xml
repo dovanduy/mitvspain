@@ -11,8 +11,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="es">Películas y series a la carta</summary>
-    <description lang="es">Películas, series, documentales, anime, ... Todo está en Internet, y ahora en tu media center.</description>
+    <summary lang="es">Buscador de Peliculas y series alojadas en internet</summary>
+    <description lang="es">MiTvSpain no dispone de ningun contenido alojado en servidores propios, es un buscador de enlaces ajenos.</description>
     <news>Reparado seriesblanco.animeflv</news>
    
     <platform>all</platform>
