@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.mitvspain"
     name="Mitvspain"
-    version="1.1.14"
+    version="2.1.2"
     provider-name="MiTvSpain - Team">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="2.1.1"/>
     <import addon="script.module.libtorrent" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -13,7 +13,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="es">Buscador de Peliculas y series alojadas en internet</summary>
     <description lang="es">MiTvSpain no dispone de ningun contenido alojado en servidores propios, es un buscador de enlaces ajenos.</description>
-    <news>Reparado seriesblanco.animeflv</news>
+    <news></news>
    
     <platform>all</platform>
     <license>GNU GPL v3</license>
@@ -21,3 +21,4 @@
   <extension point="xbmc.service" library="library_service.py" start="login|startup">
   </extension>
 </addon>
+

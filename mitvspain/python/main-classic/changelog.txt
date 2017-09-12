@@ -1,4 +1,11 @@
-﻿MiTvSpain V.1.1.14
+﻿MiTvSpain V.2.1.0
+
+17/08/2017
+
+Reparacion biblioteca (no se corrompa listado)
+Activacion elite torrent a cambiado enlace de web.
+
+MiTvSpain V.1.1.14
 
 10/08/2017
 

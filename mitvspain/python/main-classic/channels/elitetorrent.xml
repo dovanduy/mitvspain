@@ -3,7 +3,7 @@
 	<id>elitetorrent</id>
 	<name>Elite Torrent</name>
 
-	<active>false</active>
+	<active>true</active>
 	<adult>false</adult>
 	<language>es</language>
 
